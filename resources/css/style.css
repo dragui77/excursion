@@ -1,0 +1,43 @@
+*{
+  background-color: black;
+  font-family: verdana;
+  text-align: center;
+}
+
+  .beginning h1 {
+  color:white;
+  font-weight: normal;
+  font-size: 50px;
+}
+
+.beginning a {
+  color:aquamarine;
+  font-size: 16px;
+}
+
+ .middle h1{
+  color:white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.middle p {
+  color:gray;
+  font-size: 21px;
+}
+
+.end h1 {
+  color:white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+ .end a {
+  color:aquamarine;
+  font-size: 16px;
+}
+
+.copy {
+  text-align: right;
+  color:gray;
+}
